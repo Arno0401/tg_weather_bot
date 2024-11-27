@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/bot/main.go;C:/Go/project X/config/config.go;C:/Go/project X/db/db.go;C:/Go/project X/handler/handler.go;C:/Go/project X/weather/weather.go;C:/Go/project X/scheme.sql" />
+  </component>
+</project>
